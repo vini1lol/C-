@@ -1,0 +1,11 @@
+release/bool3S.o
+release/circuito.o
+release/main.o
+release/maincircuito.o
+release/mudarporta.o
+release/mudarsaida.o
+release/novo.o
+release/moc_maincircuito.o
+release/moc_mudarporta.o
+release/moc_mudarsaida.o
+release/moc_novo.o

@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1570733024 source:c:\users\vinicius\desktop\circuito_simulation\bool3s.cpp
+	<iostream>
+	"bool3S.h"
+
+1570733024 c:\users\vinicius\desktop\circuito_simulation\bool3s.h
+	<iostream>
+
+1618230874 source:c:\users\vinicius\desktop\circuito_simulation\circuito-main.cpp
+	<iostream>
+	<string>
+	"circuito.h"
+
+1618230785 c:\users\vinicius\desktop\circuito_simulation\circuito.h
+	<iostream>
+	<string>
+	<vector>
+	"bool3S.h"
+
+1618230907 source:c:\users\vinicius\desktop\circuito_simulation\circuito.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<limits>
+	<algorithm>
+	"circuito.h"
+	"bool3S.h"
+
+1570733024 source:c:\users\vinicius\desktop\programacaoemgeral\trabalhosprogramacaoavancada\t3\simulador de circuitos\circuito_simulation\bool3s.cpp
+	<iostream>
+	"bool3S.h"
+
+1570733024 c:\users\vinicius\desktop\programacaoemgeral\trabalhosprogramacaoavancada\t3\simulador de circuitos\circuito_simulation\bool3s.h
+	<iostream>
+
+1618230874 source:c:\users\vinicius\desktop\programacaoemgeral\trabalhosprogramacaoavancada\t3\simulador de circuitos\circuito_simulation\circuito-main.cpp
+	<iostream>
+	<string>
+	"circuito.h"
+
+1618230785 c:\users\vinicius\desktop\programacaoemgeral\trabalhosprogramacaoavancada\t3\simulador de circuitos\circuito_simulation\circuito.h
+	<iostream>
+	<string>
+	<vector>
+	"bool3S.h"
+

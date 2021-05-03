@@ -1,0 +1,7 @@
+CIRCUITO: 2 2 2
+PORTAS:
+1) NT 1: -1
+2) AN 2: 1 -2
+SAIDAS:
+1) 1
+2) 2

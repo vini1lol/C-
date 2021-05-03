@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1599082906 source:c:\users\vinicius\desktop\labirinto\labirinto_main.cpp
+	<iostream>
+	<cmath>
+	<chrono>
+	"labirinto.h"
+
+1614954554 c:\users\vinicius\desktop\labirinto\labirinto.h
+	<cmath>
+	<fstream>
+	<vector>
+
+1615316324 source:c:\users\vinicius\desktop\programacaoemgeral\trabalhosprogramacaoavancada\t2\labirinto\labirinto.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cstdlib>
+	<string>
+	<time.h>
+	<cmath>
+	<list>
+	<algorithm>
+	"labirinto.h"
+
+1615316571 c:\users\vinicius\desktop\programacaoemgeral\trabalhosprogramacaoavancada\t2\labirinto\labirinto.h
+	<cmath>
+	<fstream>
+	<vector>
+
+1599082906 source:c:\users\vinicius\desktop\programacaoemgeral\trabalhosprogramacaoavancada\t2\labirinto\labirinto_main.cpp
+	<iostream>
+	<cmath>
+	<chrono>
+	"labirinto.h"
+
